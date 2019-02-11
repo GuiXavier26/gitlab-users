@@ -1,0 +1,24 @@
+{
+  "name": "gitlab-users",
+  "version": "1.0.0",
+  "description": "Checar a lista de usuários",
+  "main": "root.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiXavier26/gitlab-users.git"
+  },
+  "author": "Guilherme Caçador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuiXavier26/gitlab-users/issues"
+  },
+  "homepage": "https://github.com/GuiXavier26/gitlab-users#readme",
+  "dependencies": {
+    "angular": "^1.7.7",
+    "angular-ui-router": "^1.0.20",
+    "gulp": "^4.0.0"
+  }
+}
